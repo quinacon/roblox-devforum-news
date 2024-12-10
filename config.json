@@ -1,0 +1,10 @@
+{
+    "interval": 900000,
+    "categories":[
+        { "name": "announcements","id":36, "color": 14820122 },
+        { "name": "community","id":90, "color": 8201933 },
+        { "name": "news-alerts","id":193, "color": 16766464 },
+        { "name": "release-notes","id":62, "color": 178007 }
+    ],
+    "discordRoleId":1218624987502608435
+}
