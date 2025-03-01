@@ -6,5 +6,5 @@
         { "name": "news-alerts","id":193, "color": 16766464 },
         { "name": "release-notes","id":62, "color": 178007 }
     ],
-    "discordRoleId":1218624987502608435
+    "discordRoleId":"1218624987502608435"
 }
